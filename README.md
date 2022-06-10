@@ -1,8 +1,8 @@
 # New-Login-System-with-Media-Queries
 New Login System with CSS Media Queries
 
-** THIS IS ONLY CSS media-Queries **
-*** the full Project is Comnig soon ***
+** THIS IS ONLY CSS media-Queries ** <br>
+*** the full Project is Comnig soon *** <br>
 <b> Code </b> <br>
 for css Media Queary................
 <br><br>
