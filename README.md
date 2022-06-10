@@ -32,4 +32,8 @@ for css Media Queary................
         }
     }
 
-in here U cretae a media query for standard laptop screen size <br>
+in here I cretae a media query for standard laptop screen size <br>
+standard laptop screen <br>
+width : 1366<br>
+height : 768 pixels
+
