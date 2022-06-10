@@ -32,3 +32,4 @@ for css Media Queary................
         }
     }
 
+in here U cretae a media query for standard laptop screen size <br>
