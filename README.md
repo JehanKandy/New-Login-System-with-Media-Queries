@@ -34,6 +34,13 @@ for css Media Queary................
 
 in here I cretae a media query for standard laptop screen size <br>
 standard laptop screen <br>
-width : 1366<br>
-height : 768 pixels
+width : 1366 pixels <br>
+height : 768 pixels <br>
 
+
+*************************************************************
+
+
+
+DEVELPED BY JEHANKANDY<br>
+THANK YOU
